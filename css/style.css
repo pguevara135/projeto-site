@@ -3,8 +3,25 @@
     font-size: 16px;
 }
 
-h1, h2 {
+h1 {
     color: #fc7f01;
+    font-size: 2em;
+}
+
+h2 {
+    color: #fc7f01;
+    font-size: 1.5em;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #fc7f01;
+}
+
+A:hover {
+    text-decoration: underline;
+    color: #e9943f;
 }
 
 body {
@@ -13,8 +30,14 @@ body {
 
 main {
     background-color: white;
-    width: 500px;
+    width: 580px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
+
+.lado {
+    float: right;
+}
+
+https://youtu.be/riSVzwlSnhw
